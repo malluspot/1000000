@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://catloveyou.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+ }
